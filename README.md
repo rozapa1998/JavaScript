@@ -7,9 +7,9 @@ Un repositorio de nivelacion de JS donde vamos desde el nivel 0 al maximo.
 La forma de trabajar con este repositorio es la de cumplir con los niveles y las consignas dentro de los mismos.
 
 ## Primeros pasos
-1° Lo primero que tenes que hacer es descargar el repositorio, podes hacerlo desde el boton de <> Code y seleccionando la opcion con la leyenda Download ZIP.
-2° Descomprimir el proyecto con Winzip o winrar
-3° Abrir en VSC y empezar a trabajar
+* 1° Lo primero que tenes que hacer es descargar el repositorio, podes hacerlo desde el boton de <> Code y seleccionando la opcion con la leyenda Download ZIP.
+* 2° Descomprimir el proyecto con Winzip o winrar
+* 3° Abrir en VSC y empezar a trabajar
 
 ### Herramientas necesarias
 
