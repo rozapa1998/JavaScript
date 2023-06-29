@@ -5,6 +5,7 @@ Un repositorio de nivelacion de JS donde vamos desde el nivel 0 al maximo.
 ## Descripcion
 
 La forma de trabajar con este repositorio es la de cumplir con los niveles y las consignas dentro de los mismos.
+// Si tenes sugerencias para el contenido siempre son bienvenidas!
 
 ## Primeros pasos
 * 1° Lo primero que tenes que hacer es descargar el repositorio, podes hacerlo desde el boton de <> Code y seleccionando la opcion con la leyenda Download ZIP.
