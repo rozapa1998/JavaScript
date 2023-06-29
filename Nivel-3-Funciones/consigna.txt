@@ -1,0 +1,24 @@
+______________________________________________________________FUNCIONES_________________________________________________
+ 
+// -------------------Consigna 1°----------------------
+
+- Generar una funcion que muestre por consola cuanto es 10 + 10
+- Pista: function ...
+
+// -------------------Consigna 2°----------------------
+
+- Armar una funcion que tome como parametro 2 numeros y devuelva su division, su suma y su multiplicacion.
+- Pista: function ( suma, division, multipl )
+
+// -------------------Consigna 3°----------------------
+
+- Usar un Iterador para validar la informacion del usuario y captar su edad, si la edad no es mayor a 18 imprimir por alert.
+"Perdon Juan no sos mayor de edad para ingresar a la pagina".
+- Activar una segunda funcion que le recomiende una seccion de menores.
+
+// -------------------NOTA----------------------
+
+- Usamos funciones para evitar procesos repetitivos de codigo, si lo tengo que copiar y pegar en algun lado, 
+probablemente lo puedo traducir en una funcion.
+
+

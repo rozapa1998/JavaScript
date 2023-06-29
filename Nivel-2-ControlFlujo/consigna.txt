@@ -1,0 +1,31 @@
+______________________________________________________________IF ELSE_________________________________________________
+ 
+// -------------------Consigna 1°----------------------
+
+- Utilizando control de flujo con if else, determinar si el usuario es mayor de edad para ingresar a la pagina o no y en el caso de que no sea mayor de edad denegarle el acceso.
+- Pista: prompt < o >
+
+// -------------------Consigna 2°----------------------
+
+- Averiguar la edad del usuario sin que la escriba directamente, generar un control de flujo que vaya desde 0 a 100 años buscando en que rango de edad puede estar el usuario,
+mientras el responde si o no.
+- Pista: alert("Sos mayor de 10 años") if(respuesta => "si")...
+
+OPTATIVO - Generar la misma estructura pero esta vez con Switch
+
+// -------------------Consigna 3°----------------------
+
+- Buscar la manera de que incluso aunque el usuario ingrese "si", "Si" o "SI" la condicion se pueda cumplir igual.
+- Pista: toUpperCase
+
+// -------------------Consigna 4°----------------------
+
+- Generar 2 menús distintos y que el usuario pueda acceder a ellos segun si quiere pastas o carnes.
+- Podes mostrar esos menus con esta estructura:
+                alert(`"Menu de carne:
+                        - Pollo
+                        - Bife  `)
+
+// -------------------Consigna 5°----------------------
+
+- Lograr Captar la orden del usuario para que se muestre por consola finalmente.

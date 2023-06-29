@@ -1,0 +1,24 @@
+______________________________________________________________ALERT PROMPT Y VARIABLES_________________________________________________
+ 
+// -------------------Consigna 1°----------------------
+
+- Crea un HTML que tenga una referencia a un arhivo JS y que muestre por consola del navegador "HOLA MUNDO"
+- Pista: console.log() / <script src=""></script>
+
+// -------------------Consigna 2°----------------------
+
+- Mantené la misma estructura pero ahora concatena el "HOLA MUNDO" con tu nombre para que muestre "HOLA MUNDO soy JULIAN" por ejemplo
+- Tu nombre tiene que estar almacenado en una variable
+- Pista: , / +
+- Inyectar variables en console.log(${})-----> ${} te da la opcion de inyectar variables. "Probalo!!"
+
+// -------------------Consigna 3°----------------------
+
+- Mediante el uso de alert() mostrar en la pagina sin la consola "Hola mundo soy una alerta molesta".
+- Mostrar diferentes alertas que esten almacenadas dentro de variables
+
+// -------------------Consigna 4°----------------------
+
+- Mediante el uso de prompt() y alert() generar una bienvenida funcional, que salude al usuario dandole la bienvenida y finalmente lo salude diciendo "Chau Julian"
+una vez captado el nombre del usuario.
+- Pista: "let usuario = pro..."

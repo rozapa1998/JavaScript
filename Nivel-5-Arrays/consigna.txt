@@ -1,0 +1,28 @@
+______________________________________________________________Arrays y Objetos_________________________________________________
+ 
+// -------------------Consigna 1°----------------------
+
+- Crear un array que muestre una serie de numeros e imprimirlos en consola.
+- Pista: let = []
+
+// -------------------Consigna 2°----------------------
+
+- Armar un array que tenga 2 objetos que sean 2 personas, con su DNI, nombre y edad
+- Pista: {nombre:"Juan",DNI:"44512451"...}
+
+// -------------------Consigna 3°----------------------
+
+- Iterar el array para que lo muestre por consola 1 por 1
+- Agregarle la leyenda 1"° espacio:" {Objeto}
+- Pista: console.log() / for...
+
+// -------------------Consigna 4°----------------------
+
+- Mediante el uso de document.whrite mostrar la propiedad de nombre de cada uno de los objetos.
+- Pista: forEach(e=>e.nombre)
+
+// -------------------Consigna 5°----------------------
+
+- Iterar con for la propiedad de edad de cada uno de los objetos del array y sacar un promedio de edad.
+- Cargar mas objetos y repetir.
+- Pista: Parecido al ejercicio de Iteradores.

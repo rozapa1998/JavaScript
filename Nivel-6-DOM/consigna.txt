@@ -1,0 +1,28 @@
+______________________________________________________________DOM_________________________________________________
+ 
+// -------------------Consigna 1°----------------------
+
+- Crear una etiqueta <div id="prueba"></div> en el HTML
+- Captar un elemento del HTML para que muestre el elemento en consola.
+- Pista: document.getElementById()...
+
+// -------------------Consigna 2°----------------------
+
+- Cambiar el contenido de ese div antes captado para poner tu nombre.
+- Pista: innerHTML=""
+
+// -------------------Consigna 3°----------------------
+
+- Crear un elemento HTML dentro de la pagina y hacerlo aparecer.
+- Pista: createElement()
+
+// -------------------Consigna 4°----------------------
+
+- Utilizar un array con 1 objeto para mostrar con innerHTML="" sus propiedades.
+- forEach(e => div.innerHTML="<p>${e.nombre}</p>")
+
+// -------------------Consigna 5°----------------------
+
+- Utilizar un array con 2 o mas objetos para mostrar dentro del HTML con la misma metodologia de la consigna 4,
+pero esta vez que se muestren todos los objetos del array creando los elementos 1 por 1.
+- Pista: append() / createElement()

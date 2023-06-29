@@ -1,0 +1,22 @@
+______________________________________________________________Iteradores_________________________________________________
+ 
+// -------------------Consigna 1°----------------------
+
+- Crear una iteracion que muestre 5 veces "Hola en la consola"
+- Sumarle el numero de la iteracion como su estuviera contando.
+- Pista: for...
+
+// -------------------Consigna 2°----------------------
+
+- Generar una estructura que repita una consulta hasta que se le ingrese "EXIT"
+- Finalizar esta iteracion aunque el usuario ingrese "Exit" "EXIT" o "ExiT", etc.
+- Pista: toUpperCase / while
+
+// -------------------Consigna 3°----------------------
+
+- Armar un sistema que almacene en variables las notas de "alumnos" y que devuelva un promedio.
+- Pista: prompt() / for...
+
+// -------------------Consigna 4°----------------------
+
+- Combinar el funcionamiento de la consigna anterior con una funcion que se llame "CalcularPromedio"
